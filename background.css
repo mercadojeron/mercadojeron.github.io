@@ -42,7 +42,7 @@ section {
 }
 
 .gallery-images img {
-    width: 150px; /* Increased image size for a bolder look */
+    width: 15px; /* Increased image size for a bolder look */
     height: auto;
     border: 2px solid #ddd; /* Light border around images */
     border-radius: 5px;
@@ -60,7 +60,7 @@ footer {
     text-align: center;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 50%;
 }
 
 a {
